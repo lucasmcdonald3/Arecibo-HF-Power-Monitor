@@ -1,1 +1,0 @@
-# Arecibo-HF-Power-Monitor
