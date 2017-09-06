@@ -1,0 +1,25 @@
+msc {
+  hscale = "2";
+
+  a [label="Operating Computer"],b [label="Server (RPi)"],c [label="Power Meter"];
+
+  a=>b [ label = "take reading with parameters" ] ;
+  b=>b [ label = "select Tx1/Rx1 at switch"];
+  b=>c [ label = "request Tx1/Rx1 power" ];
+  c=>b [ label = "Tx1/Rx1 power reading to output array" ];
+  b=>b [ label = "select Tx2/Rx2 at switch"];
+  b=>c [ label = "request Tx2/Rx2 power" ];
+  c=>b [ label = "Tx2/Rx2 power reading to output array" ];
+  ...;
+  b=>b [ label = "select Tx6/Rx6 at switch"];
+  b=>c [ label = "request Tx6/Rx6 power" ];
+  c=>b [ label = "Tx6/Rx6 power reading to output array" ];
+  b=>a [ label = "return output array"];
+  b=>c [ label = "request from each transmitter"];
+  c=>b [ label = "return power from each transmitter"];
+  b=>a [ label = "return output array"];
+  b=>c [ label = "request from each transmitter"];
+  c=>b [ label = "return power from each transmitter"];
+  b=>a [ label = "return output array"];
+  --- [label = "returns output arrays until stopped by client"];
+}

@@ -1,0 +1,162 @@
+<svg width="1024" height="768" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="Arrow1Lend" refX="0" refY="0" orient="auto">
+   <path fill-rule="evenodd" stroke="#000000" stroke-width="1.0pt" transform="rotate(180 -7 3.05980e-7) scale(0.8 0.8) translate(12.5 0)" d="m0,0l5,-5l-17.5,5l17.5,5l-5,-5z" id="path3772"/>
+  </marker>
+ </defs>
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" ry="2.5" y="160.999997" x="193" height="50" width="100" id="rect4242"/>
+  <text font-size="16px" font-style="normal" font-weight="normal" text-anchor="start" fill="#000000" font-family="Arial" id="text4244" y="229.999997" x="192" xml:space="preserve">
+   <tspan y="226.999997" x="192" id="tspan4246">HF TX1</tspan>
+   <tspan id="tspan4026" y="246.999997" x="192">100kW / +80dBm max</tspan>
+   <tspan id="tspan4028" y="266.999997" x="192">5.125MHz and 8.175MHz</tspan>
+  </text>
+  <text font-size="16px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" xml:space="preserve" x="243" y="260.999997" id="text4290">
+   <tspan id="tspan4292" x="243" y="257.999997">...</tspan>
+  </text>
+  <rect fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" id="rect4294" width="64" height="99" x="548" y="201.999997" ry="2.801885"/>
+  <path fill="none" stroke="#000000" stroke-width="1" stroke-miterlimit="4" stroke-dasharray="3.99999951999999981, 3.99999951999999981" stroke-dashoffset="0" marker-end="url(#Arrow1Lend)" id="path4306" d="m293.425018,186c189.574982,0 189.574982,0 189.574982,0"/>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="text4312" y="175.999997" x="478" xml:space="preserve">
+   <tspan y="172.999997" x="478" id="tspan4314">to dipole antennas</tspan>
+  </text>
+  <path fill="none" stroke="#000000" stroke-width="1" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="3.99999952, 3.99999952" stroke-dashoffset="0" id="rect4318" d="m362.899994,191.5c-2.437988,0 -4.399994,1.783997 -4.399994,4l0,10l55,0l0,-10c0,-2.216003 -1.962006,-4 -4.399994,-4l-46.200012,0z"/>
+  <rect fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="171.499997" x="348.5" height="33.999996" width="75" id="rect4323"/>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" xml:space="preserve" x="330.67969" y="201.999997" id="text4325">
+   <tspan id="tspan4327" x="330.67969" y="198.999997">FWD</tspan>
+   <tspan id="tspan3147" x="330.67969" y="213.999997">-60dB</tspan>
+  </text>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="text4329" y="202.999997" x="444.4082" xml:space="preserve">
+   <tspan y="199.999997" x="444.4082" id="tspan4331">REV</tspan>
+   <tspan id="tspan3145" y="214.999997" x="444.4082">-60dB</tspan>
+  </text>
+  <rect fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" id="rect4333" width="100" height="50" x="193" y="300.999997" ry="2.5"/>
+  <text font-size="16px" font-style="normal" font-weight="normal" text-anchor="start" fill="#000000" font-family="Arial" xml:space="preserve" x="193" y="370.999997" id="text4335">
+   <tspan id="tspan4337" x="193" y="367.999997">HF TX6</tspan>
+  </text>
+  <path fill="none" stroke="#000000" stroke-width="1" stroke-miterlimit="4" stroke-dasharray="3.99999951999999981, 3.99999951999999981" stroke-dashoffset="0" marker-end="url(#Arrow1Lend)" d="m293.425018,327c189.574982,0 189.574982,0 189.574982,0" id="path4339"/>
+  <rect fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" id="rect4351" width="75" height="33.999996" x="348.5" y="311.499997"/>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="text4353" y="345.999997" x="330.67969" xml:space="preserve">
+   <tspan y="342.999997" x="330.67969" id="tspan4355">FWD</tspan>
+  </text>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" xml:space="preserve" x="439.4082" y="345.999997" id="text4357">
+   <tspan id="tspan4359" x="439.4082" y="342.999997">REV</tspan>
+  </text>
+  <rect fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" ry="2.801885" y="306.999997" x="548" height="99" width="64" id="rect4365"/>
+  <path fill="none" stroke="#000000" stroke-width="1" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="3.99999952, 3.99999952" stroke-dashoffset="0" d="m362.899994,332.5c-2.437988,0 -4.399994,1.783997 -4.399994,4l0,10l55,0l0,-10c0,-2.216003 -1.962006,-4 -4.399994,-4l-46.200012,0z" id="path4367"/>
+  <path fill="none" stroke="#000000" stroke-miterlimit="4" stroke-dasharray="3, 3" stroke-dashoffset="0" id="path3021" d="m358.473999,206.562012l0,15.437988l189.526001,0"/>
+  <path fill="none" stroke="#000000" stroke-miterlimit="4" stroke-dasharray="3, 3" stroke-dashoffset="0" id="path3023" d="m358.5,346.5l-0.5,15.5l150,0l0,-80l40,0"/>
+  <path fill="none" stroke="#000000" stroke-miterlimit="4" stroke-dasharray="3, 3" stroke-dashoffset="0" id="path3025" d="m413.5,206.5l0,40.5l104.5,0l0,80l30,0"/>
+  <text font-size="16px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="text3027" y="251.999997" x="533" xml:space="preserve">
+   <tspan y="248.999997" x="533" id="tspan3029">...</tspan>
+  </text>
+  <text font-size="16px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" xml:space="preserve" x="538" y="355.999997" id="text3031">
+   <tspan id="tspan3033" x="538" y="352.999997">...</tspan>
+  </text>
+  <path fill="none" stroke="#000000" stroke-miterlimit="4" stroke-dasharray="3, 3" stroke-dashoffset="0" id="path3035" d="m413.5,346.5l0,40.5l134.5,0"/>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" xml:space="preserve" x="557" y="225.999997" id="text3045">
+   <tspan id="tspan3047" x="557" y="222.999997">1</tspan>
+  </text>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="text3049" y="390.999997" x="559" xml:space="preserve">
+   <tspan y="387.999997" x="559" id="tspan3051">6</tspan>
+  </text>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" xml:space="preserve" x="560" y="331.999997" id="text3053">
+   <tspan id="tspan3055" x="560" y="328.999997">1</tspan>
+  </text>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" xml:space="preserve" x="559" y="287.999997" id="text3057">
+   <tspan id="tspan3059" x="559" y="284.999997">6</tspan>
+  </text>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="text3061" y="245.999997" x="633" xml:space="preserve">
+   <tspan y="242.999997" x="633" id="tspan3063">FWD</tspan>
+  </text>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" xml:space="preserve" x="633" y="345.999997" id="text3065">
+   <tspan id="tspan3067" x="633" y="342.999997">REV</tspan>
+  </text>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="text3069" y="419.999997" x="462" xml:space="preserve">
+   <tspan font-size="12px" font-style="normal" font-weight="normal" text-anchor="start" font-family="Arial" y="416.999997" x="462" id="tspan3071">HMC252 - SP6T Switch</tspan>
+   <tspan font-size="12px" font-style="normal" font-weight="normal" text-anchor="start" font-family="Arial" id="tspan4018" y="431.999997" x="462">DC to 3GHz</tspan>
+   <tspan font-size="12px" font-style="normal" font-weight="normal" text-anchor="start" font-family="Arial" id="tspan4020" y="446.999997" x="462">+20dBm max input &lt;500MHz</tspan>
+  </text>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" xml:space="preserve" x="588" y="270.999997" id="text3073">
+   <tspan id="tspan3075" x="588" y="267.999997">sel(2:0)</tspan>
+  </text>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="text3077" y="375.999997" x="588" xml:space="preserve">
+   <tspan y="372.999997" x="588" id="tspan3079">sel(2:0)</tspan>
+  </text>
+  <rect fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" ry="0.849056" y="235.999997" x="668" height="29.999998" width="84" id="rect3081"/>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="start" fill="#000000" font-family="Arial" xml:space="preserve" x="667" y="281.999997" id="text3083">
+   <tspan id="tspan3085" x="667" y="278.999997">MCL PWR-SEN</tspan>
+   <tspan id="tspan4022" x="667" y="293.999997">1 to 8000MHz</tspan>
+   <tspan id="tspan4024" x="667" y="308.999997">-30dBm to +20dBm</tspan>
+  </text>
+  <path fill="none" stroke="#000000" stroke-miterlimit="4" stroke-dasharray="3, 3" stroke-dashoffset="0" id="path3087" d="m612,252l56,0"/>
+  <rect fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" id="rect3093" width="84" height="29.999998" x="668" y="335.999997" ry="0.849056"/>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="start" fill="#000000" font-family="Arial" id="text3095" y="381.999997" x="667" xml:space="preserve">
+   <tspan y="378.999997" x="667" id="tspan3097">MCL PWR-SEN</tspan>
+  </text>
+  <path fill="none" stroke="#000000" stroke-miterlimit="4" stroke-dasharray="3, 3" stroke-dashoffset="0" d="m612,352l56,0" id="path3099"/>
+  <rect fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" ry="1.415094" y="410.999997" x="669" height="50" width="84" id="rect3101"/>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" xml:space="preserve" x="708" y="475.999997" id="text3103">
+   <tspan id="tspan3105" x="708" y="472.999997">Raspberry Pi</tspan>
+  </text>
+  <path fill="none" stroke="#000000" stroke-miterlimit="4" stroke-dasharray="5,2,2,2,2,2" stroke-dashoffset="0" id="path3107" d="m612,267l41,0l0,160l16,0"/>
+  <path fill="none" stroke="#000000" stroke-miterlimit="4" stroke-dasharray="5,2,2,2,2,2" stroke-dashoffset="0" id="path3109" d="m612,372l21,0l0,75l36,0"/>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" xml:space="preserve" x="645" y="395.999997" id="text3111">
+   <tspan id="tspan3113" x="645" y="392.999997">3</tspan>
+  </text>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path3119" d="m628,392l10,-10"/>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="text3121" y="309.999997" x="650" xml:space="preserve">
+   <tspan y="306.999997" x="650" id="tspan3123">3</tspan>
+  </text>
+  <path fill="none" stroke="#000000" stroke-width="1px" d="m648,307l10,-10" id="path3125"/>
+  <rect fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" id="rect3127" width="84" height="29.999998" x="793" y="335.999997" ry="0.849056"/>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="text3129" y="378.999997" x="848" xml:space="preserve">
+   <tspan y="375.999997" x="848" id="tspan3131">Eth. Switch</tspan>
+  </text>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path3133" d="m753,427l55,0l0,-60"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path3135" d="m752,352l41,0"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path3137" d="m752,252l56,0l0,85"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path3139" d="m863,337l0,-55"/>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="start" fill="#000000" font-family="Arial" id="text3141" y="274.999997" x="838" xml:space="preserve">Client</text>
+  <g id="g3978">
+   <path fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" d="m858.031006,422.25c0,4.141998 -8.953979,7.5 -20,7.5c-11.044983,0 -20,-3.358002 -20,-7.5c0,-4.141998 8.955017,-7.5 20,-7.5c11.046021,0 20,3.358002 20,7.5z" id="path3163"/>
+   <path fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" d="m818.083984,422.798004c-0.033997,0.091003 -0.052979,0.19101 -0.052979,0.29599l0,33.812012c0,0.036011 0.026978,0.059021 0.031006,0.093994c-0.007996,0.085999 -0.031006,0.163025 -0.031006,0.25c0,4.142029 8.955017,7.5 20,7.5c11.046021,0 20,-3.357971 20,-7.5c0,-0.086975 -0.02301,-0.164001 -0.031006,-0.25c0.004028,-0.034973 0.031006,-0.057983 0.031006,-0.093994l0,-33.812012c0,-0.10498 -0.018005,-0.204987 -0.052002,-0.29599" id="path3165"/>
+  </g>
+  <path fill="none" stroke="#000000" stroke-miterlimit="4" stroke-dasharray="1, 1" stroke-dashoffset="0" id="path3972" d="m753,442l65,0"/>
+  <path fill="none" stroke="#000000" stroke-width="1" stroke-miterlimit="4" stroke-dashoffset="0" d="m201,449c30,0 30,0 30,0" id="path3984"/>
+  <path fill="none" stroke="#000000" stroke-width="1" stroke-miterlimit="4" stroke-dasharray="5,5" stroke-dashoffset="0" id="path3986" d="m203,430c30,0 30,0 30,0"/>
+  <text font-size="16px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="text3988" y="436.999997" x="261" xml:space="preserve">
+   <tspan y="433.999997" x="261" id="tspan3990">Coax</tspan>
+  </text>
+  <text font-size="16px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" xml:space="preserve" x="274" y="455.999997" id="text3992">
+   <tspan id="tspan3994" x="274" y="452.999997">Ethernet</tspan>
+  </text>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="text3996" y="440.999997" x="691" xml:space="preserve">
+   <tspan y="437.999997" x="691" id="tspan3998">GPIO</tspan>
+  </text>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" xml:space="preserve" x="738" y="425.999997" id="text4000">
+   <tspan id="tspan4002" x="738" y="422.999997">Eth.</tspan>
+  </text>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="start" fill="#000000" font-family="Arial" id="text4004" y="476.999997" x="812" xml:space="preserve">
+   <tspan y="473.999997" x="812" id="tspan4006">SD Card</tspan>
+  </text>
+  <text font-size="16px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="text4008" y="140.999997" x="393" xml:space="preserve">
+   <tspan y="137.999997" x="393" id="tspan4010">HF Transmitter Forward and Reflected Power Monitoring</tspan>
+  </text>
+  <text style="cursor: move;" font-size="NaN" font-style="normal" font-weight="normal" text-anchor="start" fill="#000000" font-family="Arial" id="text4012" y="480.999997" x="188" xml:space="preserve">Rev. 2, 18 Jul 2017</text>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path4042" d="m492,212l0,4l-5,1l10,2l-10,2l10,2l-10,2l10,2l-5,1l0,4"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" d="m478,236l0,4l-5,1l10,2l-10,2l10,2l-10,2l10,2l-5,1l0,4" id="path4044"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" d="m492,352l0,4l-5,1l10,2l-10,2l10,2l-10,2l10,2l-5,1l0,4" id="path4592"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path4594" d="m478,376l0,4l-5,1l10,2l-10,2l10,2l-10,2l10,2l-5,1l0,4"/>
+  <text font-size="12px" font-style="normal" font-weight="normal" text-anchor="start" fill="#000000" font-family="Arial" id="text4596" y="266.999997" x="452" xml:space="preserve">
+   <tspan y="263.999997" x="452" id="tspan4598">RF Atten</tspan>
+  </text>
+  <path fill="none" stroke="#000000" stroke-width="1" stroke-miterlimit="4" stroke-dasharray="5,2,2,2,2,2" stroke-dashoffset="0" id="svg_1" d="m203,408c30,0 30,0 30,0"/>
+  <text style="cursor: move;" font-size="16px" font-style="normal" font-weight="normal" text-anchor="middle" fill="#000000" font-family="Arial" id="svg_3" y="413.999997" x="258" xml:space="preserve">GPIO</text>
+ </g>
+</svg>
