@@ -1,4 +1,4 @@
 HF Power Monitoring Software
 ----------------------------
 
-Software operation instructions and documentation is available as an HTML or PDF file in the documentation folder.
+Software operation instructions and documentation are available as HTML or PDF files in the documentation folder.
