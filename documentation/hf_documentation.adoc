@@ -235,19 +235,19 @@ PWR-8GHS-RC Power Meter
 ~~~~~~~~~~~~~~~~~~~~~~~
 Characteristics
 ^^^^^^^^^^^^^^^
-* Sampling Period: The power meters have a sampling period of 30 milliseconds for one sample. If requests made and received rapidly (as they are in this project), the sampling period sharply increases. Sampling at each power meter six times (once for each of the six transmitters) takes around 300 to 400 milliseconds.
+* Sampling Period: The power meters have a sampling period of 30 milliseconds for one sample when in the operating mode used for this project. The software is able to sample power from all six inputs in 180 milliseconds
 
 * Measurement Uncertainty: The meters have a typical measurement uncertainty of .15 dBm, but a maximum uncertainty of around .4 dBm.
 
 * Bandwidth: The power meters can receive input from 950 kHz to 8 GHz. Any signal lying within this range will contribute to the power meters' readings, while any signal lying outside this range will have absolutely no effect on the readings. Centering the frequency of the power meters does not attenuate signals outside a specified region or change the bandwidth of the power meters.
 
-* Communication Interface: Communication with the power meters is described in the <<Monitor/Record>> section. Communication is done via an HTTP request that returns an HTML file containing the power.
+* Communication Interface: Communication with the power meters is described in the <<Monitor/Record>> section. Communication is done via Telnet.
 
 * Maximum input: 20 dBm. HF transmits at 100 kW max, or 70 dBm max. The directional couplers have a loss of about 50 dB. Additional attenuators of 10 dB are located at each input, m
 
 HMC252 RF Switch
 ~~~~~~~~~~~~~~~~
-* The switch can take around 100 nanoseconds to switch inputs. In the software, a small delay of 1 ms was added between switching the inputs and reading the input from the power meter. This drastically improves sampling accuracy while adding only 6 ms to the total sampling length, a number around 400 milliseconds.
+* The switch can take around 100 nanoseconds to switch inputs. In the software, a small delay of <1 ms was added between switching the inputs and reading the input from the power meter.
 
 Component Block Diagram
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -400,7 +400,7 @@ The array is encoded into a bitstring file using the "pickle" module. The client
 ----
 
 +
-This array is encoded to binary using pickle and sent back to the client.
+This array is encoded to a bitstream using pickle and sent back to the client.
 
 . The client unpickles the file and updates the UI elements accordingly to display the contents of the output array.
 
