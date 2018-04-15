@@ -2,7 +2,7 @@ HF Power Monitor Manual
 =======================
 :author: Lucas McDonald
 :toc:
-:imagesdir: images/
+:imagesdir: documentation/images/
 
 Introduction
 ------------
