@@ -304,7 +304,7 @@ image::top_chassis_view.JPG[Inside of Chassis, 1000]
 
 Front of box:
 
-image::front_chassis_view.JPG[Front of Chassis, 1000]
+image::front_chassis_view.jpg[Front of Chassis, 1000]
 
 Back of box:
 
