@@ -252,7 +252,7 @@ HMC252 RF Switch
 Component Block Diagram
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-image::HF_mon_rev2.png[Block Diagram, 1000]
+image::hf_mon_rev2.png[Block Diagram, 1000]
 
 For each transmitter:
 
